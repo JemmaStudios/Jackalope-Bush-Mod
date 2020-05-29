@@ -7,6 +7,7 @@ Be sure to check out the Jackalope POH.pdf file
 
 == INSTRUCTIONS ==
 Drop the Columbia 400 folder into your X-Plane 11/Aircraft/Extra Aircraft folder and replace files when asked.
+** IMPORTANT ** Be sure to check "Use experimental flight model" in X-Plane 11 Settings->General while operating this aircraft for maximum enjoyment.
 
 == OTHER INFORMATION ==
 This modification is offered as-is, may not work, or could completely destroy everything you love, especially if you do something wrong enough.  However, feel free to distribute to anyone you deem fit.
