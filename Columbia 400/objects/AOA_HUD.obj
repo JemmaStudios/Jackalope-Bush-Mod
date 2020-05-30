@@ -857,75 +857,75 @@ IDX	755
 		TRIS	282 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	1.49899995	sim/flightmodel2/position/alpha
-		ANIM_hide	1.91999996	180	sim/flightmodel2/position/alpha
-		ANIM_show	1.49899995	1.91999996	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	1.49899995	sim/flightmodel/position/alpha
+		ANIM_hide	1.91999996	180	sim/flightmodel/position/alpha
+		ANIM_show	1.49899995	1.91999996	sim/flightmodel/position/alpha
 		TRIS	294 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	1.91999996	sim/flightmodel2/position/alpha
-		ANIM_hide	3.53600001	180	sim/flightmodel2/position/alpha
-		ANIM_show	1.91999996	3.53600001	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	1.91999996	sim/flightmodel/position/alpha
+		ANIM_hide	3.53600001	180	sim/flightmodel/position/alpha
+		ANIM_show	1.91999996	3.53600001	sim/flightmodel/position/alpha
 		TRIS	306 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	3.53600001	sim/flightmodel2/position/alpha
-		ANIM_hide	5.15199995	180	sim/flightmodel2/position/alpha
-		ANIM_show	3.53600001	5.15199995	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	3.53600001	sim/flightmodel/position/alpha
+		ANIM_hide	5.15199995	180	sim/flightmodel/position/alpha
+		ANIM_show	3.53600001	5.15199995	sim/flightmodel/position/alpha
 		TRIS	318 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	-0.60900003	sim/flightmodel2/position/alpha
-		ANIM_hide	-0.18700001	180	sim/flightmodel2/position/alpha
-		ANIM_show	-0.60900003	-0.18700001	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	-0.60900003	sim/flightmodel/position/alpha
+		ANIM_hide	-0.18700001	180	sim/flightmodel/position/alpha
+		ANIM_show	-0.60900003	-0.18700001	sim/flightmodel/position/alpha
 		TRIS	342 12
 		ANIM_end
 		ANIM_begin
-		ANIM_show	-1.10000002	-0.60900003	sim/flightmodel2/position/alpha
-		ANIM_hide	-10	-1.10000002	sim/flightmodel2/position/alpha
-		ANIM_hide	-0.60900003	180	sim/flightmodel2/position/alpha
+		ANIM_show	-1.10000002	-0.60900003	sim/flightmodel/position/alpha
+		ANIM_hide	-10	-1.10000002	sim/flightmodel/position/alpha
+		ANIM_hide	-0.60900003	180	sim/flightmodel/position/alpha
 		TRIS	354 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	5.15199995	sim/flightmodel2/position/alpha
-		ANIM_hide	6.76800013	180	sim/flightmodel2/position/alpha
-		ANIM_show	5.15199995	6.76800013	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	5.15199995	sim/flightmodel/position/alpha
+		ANIM_hide	6.76800013	180	sim/flightmodel/position/alpha
+		ANIM_show	5.15199995	6.76800013	sim/flightmodel/position/alpha
 		TRIS	396 18
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	6.76800013	sim/flightmodel2/position/alpha
-		ANIM_hide	8.38399982	180	sim/flightmodel2/position/alpha
-		ANIM_show	6.76800013	8.38399982	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	6.76800013	sim/flightmodel/position/alpha
+		ANIM_hide	8.38399982	180	sim/flightmodel/position/alpha
+		ANIM_show	6.76800013	8.38399982	sim/flightmodel/position/alpha
 		TRIS	414 18
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	10	sim/flightmodel2/position/alpha
-		ANIM_hide	25	180	sim/flightmodel2/position/alpha
-		ANIM_show	10	180	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	10	sim/flightmodel/position/alpha
+		ANIM_hide	25	180	sim/flightmodel/position/alpha
+		ANIM_show	10	180	sim/flightmodel/position/alpha
 		TRIS	438 6
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	1.07700002	sim/flightmodel2/position/alpha
-		ANIM_hide	1.49899995	180	sim/flightmodel2/position/alpha
-		ANIM_show	1.07700002	1.49899995	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	1.07700002	sim/flightmodel/position/alpha
+		ANIM_hide	1.49899995	180	sim/flightmodel/position/alpha
+		ANIM_show	1.07700002	1.49899995	sim/flightmodel/position/alpha
 		TRIS	492 24
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	0.65600002	sim/flightmodel2/position/alpha
-		ANIM_hide	1.07700002	180	sim/flightmodel2/position/alpha
-		ANIM_show	0.65600002	1.07700002	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	0.65600002	sim/flightmodel/position/alpha
+		ANIM_hide	1.07700002	180	sim/flightmodel/position/alpha
+		ANIM_show	0.65600002	1.07700002	sim/flightmodel/position/alpha
 		TRIS	516 18
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	0.234	sim/flightmodel2/position/alpha
-		ANIM_hide	0.65600002	180	sim/flightmodel2/position/alpha
-		ANIM_show	0.234	0.65600002	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	0.234	sim/flightmodel/position/alpha
+		ANIM_hide	0.65600002	180	sim/flightmodel/position/alpha
+		ANIM_show	0.234	0.65600002	sim/flightmodel/position/alpha
 		TRIS	552 12
 		ANIM_end
 		ANIM_begin
-		ANIM_hide	-10	-0.18700001	sim/flightmodel2/position/alpha
-		ANIM_hide	0.234	180	sim/flightmodel2/position/alpha
-		ANIM_show	-0.18700001	0.234	sim/flightmodel2/position/alpha
+		ANIM_hide	-10	-0.18700001	sim/flightmodel/position/alpha
+		ANIM_hide	0.234	180	sim/flightmodel/position/alpha
+		ANIM_show	-0.18700001	0.234	sim/flightmodel/position/alpha
 		TRIS	564 6
 		ANIM_end
 	ANIM_end
@@ -942,75 +942,75 @@ IDX	755
 			TRIS	276 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	1.49899995	sim/flightmodel2/position/alpha
-			ANIM_hide	1.91999996	180	sim/flightmodel2/position/alpha
-			ANIM_show	1.49899995	1.91999996	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	1.49899995	sim/flightmodel/position/alpha
+			ANIM_hide	1.91999996	180	sim/flightmodel/position/alpha
+			ANIM_show	1.49899995	1.91999996	sim/flightmodel/position/alpha
 			TRIS	288 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	1.91999996	sim/flightmodel2/position/alpha
-			ANIM_hide	3.53600001	180	sim/flightmodel2/position/alpha
-			ANIM_show	1.91999996	3.53600001	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	1.91999996	sim/flightmodel/position/alpha
+			ANIM_hide	3.53600001	180	sim/flightmodel/position/alpha
+			ANIM_show	1.91999996	3.53600001	sim/flightmodel/position/alpha
 			TRIS	300 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	3.53600001	sim/flightmodel2/position/alpha
-			ANIM_hide	5.15199995	180	sim/flightmodel2/position/alpha
-			ANIM_show	3.53600001	5.15199995	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	3.53600001	sim/flightmodel/position/alpha
+			ANIM_hide	5.15199995	180	sim/flightmodel/position/alpha
+			ANIM_show	3.53600001	5.15199995	sim/flightmodel/position/alpha
 			TRIS	312 6
 			ANIM_end
 			ANIM_begin
-			ANIM_show	-1.10000002	-0.60900003	sim/flightmodel2/position/alpha
-			ANIM_hide	-10	-1.10000002	sim/flightmodel2/position/alpha
-			ANIM_hide	-0.60900003	180	sim/flightmodel2/position/alpha
+			ANIM_show	-1.10000002	-0.60900003	sim/flightmodel/position/alpha
+			ANIM_hide	-10	-1.10000002	sim/flightmodel/position/alpha
+			ANIM_hide	-0.60900003	180	sim/flightmodel/position/alpha
 			TRIS	324 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	-0.60900003	sim/flightmodel2/position/alpha
-			ANIM_hide	-0.18700001	180	sim/flightmodel2/position/alpha
-			ANIM_show	-0.60900003	-0.18700001	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	-0.60900003	sim/flightmodel/position/alpha
+			ANIM_hide	-0.18700001	180	sim/flightmodel/position/alpha
+			ANIM_show	-0.60900003	-0.18700001	sim/flightmodel/position/alpha
 			TRIS	330 12
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	6.76800013	sim/flightmodel2/position/alpha
-			ANIM_hide	8.38399982	180	sim/flightmodel2/position/alpha
-			ANIM_show	6.76800013	8.38399982	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	6.76800013	sim/flightmodel/position/alpha
+			ANIM_hide	8.38399982	180	sim/flightmodel/position/alpha
+			ANIM_show	6.76800013	8.38399982	sim/flightmodel/position/alpha
 			TRIS	360 18
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	5.15199995	sim/flightmodel2/position/alpha
-			ANIM_hide	6.76800013	180	sim/flightmodel2/position/alpha
-			ANIM_show	5.15199995	6.76800013	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	5.15199995	sim/flightmodel/position/alpha
+			ANIM_hide	6.76800013	180	sim/flightmodel/position/alpha
+			ANIM_show	5.15199995	6.76800013	sim/flightmodel/position/alpha
 			TRIS	378 18
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	10	sim/flightmodel2/position/alpha
-			ANIM_hide	25	180	sim/flightmodel2/position/alpha
-			ANIM_show	10	25	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	10	sim/flightmodel/position/alpha
+			ANIM_hide	25	180	sim/flightmodel/position/alpha
+			ANIM_show	10	25	sim/flightmodel/position/alpha
 			TRIS	432 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	0.65600002	sim/flightmodel2/position/alpha
-			ANIM_hide	1.07700002	180	sim/flightmodel2/position/alpha
-			ANIM_show	0.65600002	1.07700002	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	0.65600002	sim/flightmodel/position/alpha
+			ANIM_hide	1.07700002	180	sim/flightmodel/position/alpha
+			ANIM_show	0.65600002	1.07700002	sim/flightmodel/position/alpha
 			TRIS	450 18
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	1.07700002	sim/flightmodel2/position/alpha
-			ANIM_hide	1.49899995	25	sim/flightmodel2/position/alpha
-			ANIM_show	1.07700002	1.49899995	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	1.07700002	sim/flightmodel/position/alpha
+			ANIM_hide	1.49899995	25	sim/flightmodel/position/alpha
+			ANIM_show	1.07700002	1.49899995	sim/flightmodel/position/alpha
 			TRIS	468 24
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	-0.18700001	sim/flightmodel2/position/alpha
-			ANIM_hide	0.234	25	sim/flightmodel2/position/alpha
-			ANIM_show	-0.18700001	0.234	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	-0.18700001	sim/flightmodel/position/alpha
+			ANIM_hide	0.234	25	sim/flightmodel/position/alpha
+			ANIM_show	-0.18700001	0.234	sim/flightmodel/position/alpha
 			TRIS	534 6
 			ANIM_end
 			ANIM_begin
-			ANIM_hide	-10	0.234	sim/flightmodel2/position/alpha
-			ANIM_hide	0.65600002	25	sim/flightmodel2/position/alpha
-			ANIM_show	0.234	0.65600002	sim/flightmodel2/position/alpha
+			ANIM_hide	-10	0.234	sim/flightmodel/position/alpha
+			ANIM_hide	0.65600002	25	sim/flightmodel/position/alpha
+			ANIM_show	0.234	0.65600002	sim/flightmodel/position/alpha
 			TRIS	540 12
 			ANIM_end
 		ANIM_end
